@@ -1,2 +1,3 @@
 # Eng.-Software
-Este é meu repositório de estudos da faculdade
+Este é meu repositorio com programas em C da materia de estrutura de dados.
+
